@@ -19,7 +19,7 @@ function Home () {
                 <strong>Empoderando Mulheres em África</strong>
                 <p className="mt-10">A nossa pagína web encontra-se em construção</p>
                 <a href="https://chat.whatsapp.com/IHhkqMi4IQQ7gvdBdEMzgK" className="flex bg-green-600 py-2 px-4 h-10 rounded mt-10">
-                    <strong className="text-white text-bold">Conecte-se no nosso último projecto</strong>
+                    <strong className="text-white text-bold">Conecte-se ao nosso último projecto</strong>
                 </a>
             </div>
         </div> 
